@@ -59,6 +59,9 @@ The dataset includes multiple tables:
 
 ## 📊 Dashboard Preview
 ![](Images/airbnb_dashboard.png)
+
+---
+
 🔗 **Live Dashboard:**  
 👉 https://public.tableau.com/views/TableauProjectAirBnBListings/Dashboard1
 
